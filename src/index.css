@@ -81,11 +81,12 @@ header {
 
 
 .name_input {
+  padding-left: 6px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 4rem;
   height: 2rem;
-  width: 80%;
+  width: 79%;
   border-radius: 16px;
   background: linear-gradient(45deg, #d3e0e2, rgb(126, 206, 252));
   font-size: large;
@@ -93,11 +94,12 @@ header {
 }
 
 .phone_input {
+  padding-left: 6px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 1rem;
   height: 2rem;
-  width: 80%;
+  width: 79%;
   border-radius: 160px;
   background: linear-gradient(45deg, #d3e0e2, rgb(126, 206, 252));
   font-size: large;
