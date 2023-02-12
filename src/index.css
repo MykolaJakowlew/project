@@ -715,7 +715,7 @@ svg {
   height: 7rem;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content:flex-end;
 }
 
 #description_text {
